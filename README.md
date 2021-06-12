@@ -2,7 +2,7 @@
 
 ## Se necesita instalar algún plugin de CORS en el navegador
 
-[Link sugerido en Chrome:](https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=es)
+[Link sugerido en Chrome](https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=es)
 
 ## Project setup
 ```
